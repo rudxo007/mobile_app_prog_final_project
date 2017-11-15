@@ -19,4 +19,10 @@
     <string name="title_activity_coupon">Coupon</string>
     <string name="title_activity_puzzle_box">PuzzleBox</string>
     <string name="title_activity_add_mission">AddMission</string>
+        <string name="title_activity_m2_board">M2_board</string>
+        <string name="title_activity_m3_board">M3_board</string>
+        <string name="title_activity_m4_board">M4_board</string>
+        <string name="title_activity_m5_board">M5_board</string>
+        <string name="title_activity_m6">M6</string>
+        <string name="title_activity_m6_board">M6_board</string>
 </resources>
